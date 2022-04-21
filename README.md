@@ -6,7 +6,7 @@
 Использовать виртуальное окружение.
 
 ## Install pip:
-'pip install aiogram'
+pip install aiogram
 
 ## Files:
 main.py - запускной файл телеграмм бота
